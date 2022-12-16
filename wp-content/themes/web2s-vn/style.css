@@ -1,0 +1,117 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.13.1
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.nav-dropdown{padding:10px; border:none}.nav-dropdown-has-arrow li.has-dropdown:after {
+    border-color: rgba(0, 0, 0, 0);
+    border-bottom-color: #fff;
+    border-width: 10px;
+    margin-left: -10px;
+}.nav-dropdown>li>a{color:black !important; font-size:16px !important}.nav-dropdown>li>a:hover{color:#00a89d !important}.header-main {
+    box-shadow: 2px 2px 20px #0000000f;
+}.flickity-page-dots .dot {
+    width: 8px;
+	height: 8px;}
+.header-button a{font-size:16px}
+.san-pham-section .col{padding-bottom:0}
+.list-page .page-box .page-title:hover{color:#00a89d}
+.list-page .page-box .page-title{text-transform:uppercase}
+.list-page .page-box .image-cover{border-radius:6px}
+.san-pham-section .flickity-prev-next-button svg{background: white;
+    box-shadow: 2px 2px 10px #00000038;
+    border-radius: 99%;
+    color: #00a89d;
+    border: 1px dashed #00a89d;
+}.section-title-container {
+    margin-bottom: 0;
+}.section-title-center span:after {
+    content: "";
+    display: table;
+    clear: both;
+    background: url(../../uploads/2020/02/line.png);
+    width: 100%;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: bottom;
+    padding-top: 0;
+}
+.san-pham-section .slider-nav-push:not(.slider-nav-reveal) .flickity-prev-next-button {
+    margin-top: -6%;
+}.section-title b{background:#00000000}.giai-phap-section {
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background: url(../../uploads/2020/02/background_dich-vu-web.png);
+}
+.list-post .post-item a:hover{color:black}
+.list-page .page-box .box-text{padding-bottom:0}.list-post .post-item .post-title:hover{coloR:#00a89d}.post-item .box-image:hover::before{
+-webkit-animation:shine .75s;
+animation:shine .75s}
+@-webkit-keyframes shine{
+100%{left:125%}
+}
+@keyframes shine{
+100%{left:125%}
+}
+.post-item .box-image::before{
+position:absolute;
+top:0;
+left:-75%;
+z-index:2;
+display:block;
+content:'';
+width:50%;
+height:100%;
+background:-webkit-linear-gradient(left,rgba(255,255,255,0) 0,rgba(255,255,255,.3) 100%);
+background:linear-gradient(to right,rgba(255,255,255,0) 0,rgba(255,255,255,.3) 100%);
+-webkit-transform:skewX(-25deg);transform:skewX(-25deg)
+}
+.list-post .post-item .post-title{    font-size: 18px;
+    color: black;
+    margin-bottom: 10px;}.box-blog-post .is-divider{display:none}
+.list-post .post-item .box-image .image-cover{border-radius:6px}
+
+.page-box .box-image:hover::before{
+-webkit-animation:shine .75s;
+animation:shine .75s}
+@-webkit-keyframes shine{
+100%{left:125%}
+}
+@keyframes shine{
+100%{left:125%}
+}
+.page-box .box-image::before{
+position:absolute;
+top:0;
+left:-75%;
+z-index:2;
+display:block;
+content:'';
+width:50%;
+height:100%;
+background:-webkit-linear-gradient(left,rgba(255,255,255,0) 0,rgba(255,255,255,.3) 100%);
+background:linear-gradient(to right,rgba(255,255,255,0) 0,rgba(255,255,255,.3) 100%);
+-webkit-transform:skewX(-25deg);transform:skewX(-25deg)
+}
+.footer-section a:hover{text-decoration:underline; color:#00a89d !important}
+a.back-to-top{background:#00a89d !important; border:none !important; color:white !important}.pricing-table .title {    padding: 16px 10px;
+    border-bottom: 1px solid #ececec;
+    text-transform: none;
+    font-size: 19px;
+    letter-spacing: 0;
+}.featured-table {
+	margin-top: 0;}
+.bang-gia-section .pricing-table-wrapper{padding-bottom:30px}
+.blog-archive .archive-page-header .large-12{padding-bottom:10px}
+.blog-archive .badge{display:none}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}

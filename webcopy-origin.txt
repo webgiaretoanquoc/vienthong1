@@ -1,0 +1,364 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2C500|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://vienthong1.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://vienthong1.webtudong8giay.com/category/ho-tro/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\category\ho-tro\index.htm
+Content Type: text/html
+
+Uri: https://vienthong1.webtudong8giay.com/category/ho-tro/feed/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\category\ho-tro\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vienthong1.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vienthong1.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vienthong1.webtudong8giay.com/giai-phap/sip-trunking/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\giai-phap\sip-trunking\index.htm
+Content Type: text/html
+
+Uri: https://vienthong1.webtudong8giay.com/giai-phap/smsbrandname/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\giai-phap\smsbrandname\index.htm
+Content Type: text/html
+
+Uri: https://vienthong1.webtudong8giay.com/giai-phap/voffice-van-phong-dien-tu/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\giai-phap\voffice-van-phong-dien-tu\index.htm
+Content Type: text/html
+
+Uri: https://vienthong1.webtudong8giay.com/kenh-truyen/internet-cap-quang/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\kenh-truyen\internet-cap-quang\index.htm
+Content Type: text/html
+
+Uri: https://vienthong1.webtudong8giay.com/kenh-truyen/internet-leased-line/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\kenh-truyen\internet-leased-line\index.htm
+Content Type: text/html
+
+Uri: https://vienthong1.webtudong8giay.com/kenh-truyen/metro-wan/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\kenh-truyen\metro-wan\index.htm
+Content Type: text/html
+
+Uri: https://vienthong1.webtudong8giay.com/kenh-truyen/office-wan/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\kenh-truyen\office-wan\index.htm
+Content Type: text/html
+
+Uri: https://vienthong1.webtudong8giay.com/san-pham/chu-ky-so-viettel/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\san-pham\chu-ky-so-viettel\index.htm
+Content Type: text/html
+
+Uri: https://vienthong1.webtudong8giay.com/san-pham/sinvoice-hoa-don-dien-tu/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\san-pham\sinvoice-hoa-don-dien-tu\index.htm
+Content Type: text/html
+
+Uri: https://vienthong1.webtudong8giay.com/san-pham/smartmoto-giam-sat-xe-may/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\san-pham\smartmoto-giam-sat-xe-may\index.htm
+Content Type: text/html
+
+Uri: https://vienthong1.webtudong8giay.com/san-pham/vtracking-dinh-vi-o-to/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\san-pham\vtracking-dinh-vi-o-to\index.htm
+Content Type: text/html
+
+Uri: https://vienthong1.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-instant-page/flatsome-instant-page.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-instant-page\flatsome-instant-page.js
+Content Type: application/javascript
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/themes/web2s-vn/style.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\themes\web2s-vn\style.css
+Content Type: text/css
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/uploads/2020/02/background_dich-vu-web.png
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\uploads\2020\02\background_dich-vu-web.png
+Content Type: image/png
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/uploads/2020/02/bg-gioi-thieu.jpg
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\uploads\2020\02\bg-gioi-thieu.jpg
+Content Type: image/jpeg
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/uploads/2020/02/cropped-300x60-VTS-White-300x60-1.png
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\uploads\2020\02\cropped-300x60-VTS-White-300x60-1.png
+Content Type: image/png
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/uploads/2020/02/cropped-logo_vts-180x180.png
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\uploads\2020\02\cropped-logo_vts-180x180.png
+Content Type: image/png
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/uploads/2020/02/cropped-logo_vts-192x192.png
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\uploads\2020\02\cropped-logo_vts-192x192.png
+Content Type: image/png
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/uploads/2020/02/cropped-logo_vts-32x32.png
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\uploads\2020\02\cropped-logo_vts-32x32.png
+Content Type: image/png
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/uploads/2020/02/etax-300x157-1.jpg
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\uploads\2020\02\etax-300x157-1.jpg
+Content Type: image/jpeg
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/uploads/2020/02/line.png
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\uploads\2020\02\line.png
+Content Type: image/png
+
+Uri: https://vienthong1.webtudong8giay.com/wp-content/uploads/2020/02/logo_vts.png
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-content\uploads\2020\02\logo_vts.png
+Content Type: image/png
+
+Uri: https://vienthong1.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://vienthong1.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://vienthong1.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://vienthong1.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fgiai-phap%2Fsip-trunking%2F
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fgiai-phap%2Fsip-trunking%2F&format=xml
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fgiai-phap%2Fsmsbrandname%2F
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fgiai-phap%2Fsmsbrandname%2F&format=xml
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fgiai-phap%2Fvoffice-van-phong-dien-tu%2F
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fgiai-phap%2Fvoffice-van-phong-dien-tu%2F&format=xml
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fkenh-truyen%2Finternet-cap-quang%2F
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fkenh-truyen%2Finternet-cap-quang%2F&format=xml
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fkenh-truyen%2Finternet-leased-line%2F
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fkenh-truyen%2Finternet-leased-line%2F&format=xml
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fkenh-truyen%2Fmetro-wan%2F
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fkenh-truyen%2Fmetro-wan%2F&format=xml
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fkenh-truyen%2Foffice-wan%2F
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fkenh-truyen%2Foffice-wan%2F&format=xml
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fsan-pham%2Fchu-ky-so-viettel%2F
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fsan-pham%2Fchu-ky-so-viettel%2F&format=xml
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fsan-pham%2Fsinvoice-hoa-don-dien-tu%2F
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fsan-pham%2Fsinvoice-hoa-don-dien-tu%2F&format=xml
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fsan-pham%2Fsmartmoto-giam-sat-xe-may%2F
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fsan-pham%2Fsmartmoto-giam-sat-xe-may%2F&format=xml
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fsan-pham%2Fvtracking-dinh-vi-o-to%2F
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fvienthong1.webtudong8giay.com%2Fsan-pham%2Fvtracking-dinh-vi-o-to%2F&format=xml
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/wp/v2/pages/17
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/wp/v2/pages/19
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/wp/v2/pages/21
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\wp\v2\pages\21
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/wp/v2/pages/23
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\wp\v2\pages\23
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/wp/v2/pages/25
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\wp\v2\pages\25
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/wp/v2/pages/27
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\wp\v2\pages\27
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/wp/v2/pages/29
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\wp\v2\pages\29
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/wp/v2/pages/31
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\wp\v2\pages\31
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/wp/v2/pages/33
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\wp\v2\pages\33
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/wp/v2/pages/35
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\wp\v2\pages\35
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/wp-json/wp/v2/pages/37
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\wp-json\wp\v2\pages\37
+Content Type: application/json
+
+Uri: https://vienthong1.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\vienthong1.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
